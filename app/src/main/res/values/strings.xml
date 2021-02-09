@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Step Earn</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4725607852978925/4410122338</string>
+    <string name="don_t_recive_the_otp_code">Don\'t receive the OTP</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="sign_in">Sign in</string>
+</resources>

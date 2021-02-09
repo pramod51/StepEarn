@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "636077671292",
+    "firebase_url": "https://earnwithworkout-default-rtdb.firebaseio.com",
+    "project_id": "earnwithworkout",
+    "storage_bucket": "earnwithworkout.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636077671292:android:129e9ceac0b762126e9af9",
+        "android_client_info": {
+          "package_name": "step.earn.stepearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636077671292-crpkicadb59vcnu453fsde9ophkpvdu2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "step.earn.stepearn",
+            "certificate_hash": "d3e114c3b355fae319a4cef77c55a891ab918e7a"
+          }
+        },
+        {
+          "client_id": "636077671292-lcfju7a83roce0pkarpsgvh29hjs917b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnyHTDnYrcf1OgDeXEOn8b37B2BxZ7JFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636077671292-lcfju7a83roce0pkarpsgvh29hjs917b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

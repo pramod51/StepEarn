@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alegreya_sc</item>
+        <item>@font/amaranth</item>
+        <item>@font/andada</item>
+        <item>@font/arbutus_slab</item>
+        <item>@font/average_sans</item>
+        <item>@font/eb_garamond</item>
+        <item>@font/kameron</item>
+    </array>
+</resources>
